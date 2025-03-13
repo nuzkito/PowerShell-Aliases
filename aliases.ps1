@@ -4,3 +4,4 @@ function c {
     git add .
     git commit -m $args
 }
+function l { git log $args }
